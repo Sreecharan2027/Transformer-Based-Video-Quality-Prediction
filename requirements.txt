@@ -3,6 +3,8 @@ torchvision
 torchaudio
 transformers
 opencv-python
-pillow
+Pillow
 tqdm
 streamlit
+numpy
+pandas
